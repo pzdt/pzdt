@@ -1,0 +1,20 @@
+html, body {
+  background-color: #FBDB90;
+  height: 100%;
+}
+h3 {
+  color: white;
+  font-family: proxima-nova, Lato, Arial, Helvetica, Geneva, sans-serif;
+  font-size: 40pt;
+  margin: 10pt;
+}
+#slogan, #contacts {
+  text-align: center;
+}
+#slogan {
+  margin-top: 10%;
+}
+#contacts {
+  margin-top: 5%;
+  font-size: 16pt;
+}
